@@ -1,17 +1,21 @@
 # Power-BI-Public
 ### CityFix Operations Revenue DashBoard
-
 Data Source:- MySQL Server
 
 ![image](https://github.com/user-attachments/assets/2bdfe3bc-5501-4a0b-9321-4a666db4be65)
 
-
+ ### Hires Analytics Dash Board
+Data Source:- PostgreSQL (QDBC)
 ![image](https://github.com/user-attachments/assets/3ad912a4-86bf-41e7-af1d-0660b7c05383)
 
+### Stores' Status Report - Date Wise
+Data Source:- Website (API)
 ![image](https://github.com/user-attachments/assets/52d969a6-e401-4dc7-a37c-841c425e0f6c)
 
-
 ![image](https://github.com/user-attachments/assets/26655680-a5f7-4460-ab02-a7c87fe3a914)
+
+### B K Dashboard
+Data Source:- Website (API), Excel (SharePoint)
 
 ![image](https://github.com/user-attachments/assets/ba9b6156-0623-41e6-8e1e-a20c3fbb531b)
 
